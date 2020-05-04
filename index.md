@@ -2,7 +2,9 @@
 
 On this page you will find the surveys available. Click on the link for each survey to go to the start page.
 
-### Survey 1
+### Measure your uncertainty attitude
+
+The purpose of this questionnaire is to measure your uncertainty type, i.e., your attitudes towards uncertain situations, and to show you how your attitudes compare to those of other people. Answering the questionnaire takes less than 5 minutes.
 
 [Ambiguity Preference Survey](https://github.com/uncertaintyresearch/ambiguityapp/edit/master/index.md)
 
@@ -11,4 +13,4 @@ On this page you will find the surveys available. Click on the link for each sur
 
 Having trouble with the surveys?
 
-Contact the research team for support: email@email.com
+Contact the research team for support: ambuiguity-survey[at]kcl.ac.uk
