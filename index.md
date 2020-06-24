@@ -6,4 +6,4 @@ Use this questionnaire to measure your uncertainty type, i.e., your attitude tow
 
 ### Contact
 
-Having trouble with the questionnaire or any questions? Contact the research team: inf[at]ambuiguity-preferences.org
+Having trouble with the questionnaire or any questions? Contact the research team: info[at]ambuiguity-preferences.org
