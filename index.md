@@ -2,7 +2,7 @@
 
 Use this questionnaire to measure your uncertainty type, i.e., your attitude towards uncertain situations, and see how your attitudes compare to other people.
 
-The questionnaire is temporarily closed. We will upload the results [here](https://www.inresearch.online/elisacavatorta/#research) when ready. If you have any questions, please contact the research team at info[at]ambiguity-preferences.org
+The questionnaire is temporarily closed and will open again soon. If you have any questions, please contact David Schroeder at info[at]ambiguity-preferences.org or Elisa Cavatorta at elisa[dot]cavatorta[ at ]kcl[ dot ]ac[ dot ]uk 
 
 [comment]: <> ([Start the questionnaire]&#40;https://survey.ambiguity-preferences.org/join/nrem6ex3h3/&#41;)
 
